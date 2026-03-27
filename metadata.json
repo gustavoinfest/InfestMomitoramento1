@@ -1,0 +1,5 @@
+{
+  "name": "Saúde Brasil 360º",
+  "description": "Sistema para monitoramento dos indicadores do Saúde Brasil 360º (Novo Financiamento da APS) com rastreabilidade individual por paciente.",
+  "requestFramePermissions": []
+}
